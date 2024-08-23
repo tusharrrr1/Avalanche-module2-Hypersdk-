@@ -27,7 +27,7 @@ Challenge: Your startup has identified a need to create a custom virtual machine
 ## STEPS TO PERFORM
 1. Clone this repository on ubuntu using
    ```
-   git clone https://github.com/NirbehKaur/tokenvm/
+   git clone https://github.com/tusharrrr1/Avalanche-module2-Hypersdk-.git
    ```
 2. Open this repository on VS code from ubuntu by running the following command
    ```
@@ -65,7 +65,7 @@ When you are done, the output should look something like this:
 ```
 database: .token-cli
 address: token1rvzhmceq997zntgvravfagsks6w0ryud3rylh4cdvayry0dl97nsjzf3yp
-✔ metadata (can be changed later): ForgeChain█
+✔ metadata (can be changed later): HyperChain
 continue (y/n): y
 ✅ txID: 2MuMFx41XP7C2j2FXkPnYD7nFWiDSgndQuei5crQm26nPchXR6
 ```
