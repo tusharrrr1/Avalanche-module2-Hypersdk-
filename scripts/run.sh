@@ -62,7 +62,7 @@ if [ ! -f "$AVALANCHEGO_PATH" ]; then
   ./scripts/build.sh
   mv build/avalanchego /tmp/avalanchego-v${VERSION}
 
-  cd ${CWD}
+  cd "${CWD}"
 else
   echo "using previously built avalanchego"
 fi
